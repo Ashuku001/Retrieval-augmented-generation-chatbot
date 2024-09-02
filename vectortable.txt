@@ -1,0 +1,28 @@
+vectortable
+text: Text
+vector: Blob
+
+
+the search_string create an embedding for search_string perform the search in db with the closest embedding pick top something results
+
+
+PDF library
+
+read pdf
+
+chunk pdfs into parangraphs
+
+
+store as vectors in the vector table
+
+
+later can be retrieved and return as part of queries
+
+Vector embeddings- provide a way to transform complex multi dimensional and often discrete data into a low dimensional continuous space that captures semantics and structural relationships withing the original data
+Types of vector embeddings
+Word/text embeddings
+document embeddings
+sentence embeddings
+graph embeddings nodes in a graph represented as vectors - recommendation systems
+image embeddings
+
